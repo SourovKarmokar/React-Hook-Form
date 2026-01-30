@@ -1,10 +1,12 @@
 import LoginForm from "./forms/LoginForm"
+import Registration from "./forms/Registration"
 
 function App() {
   
   return (
     <>
-      <LoginForm/>
+      <Registration/>
+      {/* <LoginForm/> */}
     </>
   )
 }
